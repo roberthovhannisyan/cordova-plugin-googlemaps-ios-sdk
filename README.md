@@ -1,4 +1,4 @@
-googlemaps-ios-sdk
+cordova-plugin-googlemaps-ios-sdk
 ===============================
 This plugin just installs Google Maps SDK for iOS to your project.
 
